@@ -1,0 +1,29 @@
+.offer .duration{
+    background-color: rgb(30, 80, 126);
+    font-size: 0.8rem;
+    vertical-align: super;
+    padding: 5px 12px;
+    border-radius: 15px;
+    color: whitesmoke;
+    display: inline;
+    
+}
+.offer .card-footer{
+    background-color: transparent;
+    border: none;
+}
+
+.offer ul{
+    list-style: none;
+    padding-left: 0;
+}
+.offer ul li i{
+    margin-right: 5px;
+}
+
+.offer .card-footer h5 span{
+    vertical-align: super;
+    font-size: 80%;
+    text-decoration: line-through;
+    color: rgb(94, 94, 94);
+}

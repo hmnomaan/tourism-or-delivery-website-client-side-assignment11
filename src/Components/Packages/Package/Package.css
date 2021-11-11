@@ -1,0 +1,29 @@
+.package .card{
+    border: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    
+}
+.package .duration{
+    background-color: rgb(34, 95, 85);
+    font-size: 0.8rem;
+    vertical-align: super;
+    padding: 5px 12px;
+    border-radius: 15px;
+    color: whitesmoke;
+    display: inline;
+    
+}
+
+.package ul{
+    list-style: none;
+    padding-left: 0;
+}
+.package ul li i{
+    margin-right: 5px;
+}
+
+.package .card-footer{
+    background-color: transparent;
+    border: none;
+    padding-bottom: 15px;
+}
